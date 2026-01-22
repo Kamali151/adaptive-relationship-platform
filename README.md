@@ -78,11 +78,11 @@ AI responses are structured and validated to ensure respectful and relevant outp
 ---
 
 ## Hosted Application
-Live Demo: https://adaptive-relationship-platform-2026.vercel.app
+Live Demo: https://adaptive-relationship-platform-2026.vercel.app/
 
 ---
 
 ## Submission Links
 - GitHub Repository: https://github.com/Kamali151/adaptive-relationship-platform
-- Hosted Application: https://adaptive-relationship-platform-2026.vercel.app
+- Hosted Application: https://adaptive-relationship-platform-2026.vercel.app/
 
