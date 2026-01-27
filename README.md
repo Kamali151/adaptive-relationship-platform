@@ -51,7 +51,7 @@ To build an AI-powered relationship engagement platform that:
 ## Tech Stack
 - Frontend: React + TypeScript (Vite)
 - AI: Gemini API
-- Hosting: Netlify
+- Hosting: Vercel
 - Version Control: GitHub
 
 ---
